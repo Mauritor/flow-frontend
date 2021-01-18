@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/flow-frontend/static/js/main.fbdd241e.chunk.js",
+    "main.js.map": "/flow-frontend/static/js/main.fbdd241e.chunk.js.map",
+    "runtime-main.js": "/flow-frontend/static/js/runtime-main.2e32f5c3.js",
+    "runtime-main.js.map": "/flow-frontend/static/js/runtime-main.2e32f5c3.js.map",
+    "static/js/2.ba693647.chunk.js": "/flow-frontend/static/js/2.ba693647.chunk.js",
+    "static/js/2.ba693647.chunk.js.map": "/flow-frontend/static/js/2.ba693647.chunk.js.map",
+    "index.html": "/flow-frontend/index.html",
+    "static/js/2.ba693647.chunk.js.LICENSE.txt": "/flow-frontend/static/js/2.ba693647.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e32f5c3.js",
+    "static/js/2.ba693647.chunk.js",
+    "static/js/main.fbdd241e.chunk.js"
+  ]
+}
