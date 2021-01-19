@@ -18,9 +18,9 @@ const Nav = () => {
                         <div className="col col-sm-12 col-md-6 offset-md-3 ">
                             <form >
                                 <div className="form-group">
-                                    <label htmlFor="exampleSelect1">Patagonia select</label>
+                                    <label>Patagonia select</label>
                                     <select className="form-control" onChange={handleInputChange} name="patagoniaCity">
-                                        
+                                        <option></option>
                                         <option>Bariloche</option>
                                         <option>Calafate</option>
                                         <option>Esquel</option>
